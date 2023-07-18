@@ -1,5 +1,5 @@
 {
-  "name": "request-promise-native",
+  "name": "fork-request-promise-native",
   "version": "1.0.9",
   "description": "The simplified HTTP request client 'request' with Promise support. Powered by native ES6 promises.",
   "keywords": [
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/request/request-promise-native.git"
+    "url": "git+https://github.com/nqdev-fork/fork-request-promise-native.git"
   },
   "author": "Nicolai Kamenzky (https://github.com/analog-nico)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/request/request-promise-native/issues"
+    "url": "https://github.com/nqdev-fork/fork-request-promise-native/issues"
   },
-  "homepage": "https://github.com/request/request-promise-native#readme",
+  "homepage": "https://github.com/nqdev-fork/fork-request-promise-native#readme",
   "engines": {
     "node": ">=0.12.0"
   },
